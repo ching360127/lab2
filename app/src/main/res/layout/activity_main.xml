@@ -96,7 +96,7 @@
         app:layout_constraintTop_toTopOf="@+id/tv_winner" />
 
     <TextView
-        android:id="@+id/tv_mora"
+        android:id="@+id/tv_cmora"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginStart="24dp"
